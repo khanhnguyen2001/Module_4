@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Blog">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/startbootstrap-blog-home-gh-pages.zip!/" />
+      <root url="jar://$PROJECT_DIR$/startbootstrap-blog-post-gh-pages.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd33b8af-7aa1-4389-be86-67239ef00141" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/config/WebInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/repository/ICategoryRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/repository/ProductRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/service/ICategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/service/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/java/com/example/demo_spring_data_repository/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/webapp/view/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/webapp/view/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_Spring_Data_Repository/src/main/webapp/view/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UKoVqGkQa8bDpMCT4GYWJtba4R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/CodeGym/BaiTap/Module_4/News",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd33b8af-7aa1-4389-be86-67239ef00141" name="Changes" comment="" />
+      <created>1692697659962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692697659962</updated>
+      <workItem from="1692697661097" duration="720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

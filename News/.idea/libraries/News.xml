@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="News">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aznews-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/newsbit-bootstrap-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

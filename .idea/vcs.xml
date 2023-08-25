@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MoDuLe4-Spring-MVC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo_DataBinding&amp;Form_Module4_C0423h1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo_SpringMVC_Module4_C0423h1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo_SpringMVC_Module4_C0423h1_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo_Spring_JPA_C04_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo_Spring_JPA_C04_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo_Spring_Validation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hibernate-c0423h1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/huynh_module4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wbds-2023-spring-data" vcs="Git" />
+  </component>
+</project>
